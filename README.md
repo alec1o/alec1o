@@ -1,8 +1,8 @@
 <h2 align="center">ABOUT ME</h2>
 
-<p><code>NAME</code> ALECIO FURANZE</p>
-<p><code>COUNTRY</code> MOZAMBIQUE</p>
-<p><code>EMPLOY</code> SOFTWARE DEVELOPER</p>
+<p><code>NAME</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALECIO FURANZE<p></p>
+<p><code>COUNTRY</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOZAMBIQUE</p></p>
+<p><code>EMPLOY</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOFTWARE DEVELOPER</p></p>
 
 <p align="center">
   <a href="https://instagram.com/alec1o"><image width="64px" src="/instagram.png" alt="instagram"><a/>
