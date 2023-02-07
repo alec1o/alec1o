@@ -1,4 +1,19 @@
-### Hi there 👋
+<h2 align="center">ABOUT ME</h2>
+
+<p><code>NAME</code> ALECIO FURANZE</p>
+<p><code>COUNTRY</code> MOZAMBIQUE</p>
+<p><code>EMPLOY</code> SOFTWARE DEVELOPER</p>
+
+<p align="center">
+  <a href="https://instagram.com/alec1o"><image width="64px" src="/instagram.png" alt="instagram"><a/>
+  <a href="https://youtube.com/@alec1o"><image width="64px" src="/youtube.png" alt="youtube"><a/>
+  <a href="https://linkedin.com/in/alec1o/"><image width="64px" src="/linkedin" alt="linkedin"><a/>
+</p>
+
+<h2 align="center">MY SKILLS</h2>
+
+|
+
 
 <!--
 **alec1o/alec1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
