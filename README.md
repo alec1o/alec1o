@@ -6,8 +6,10 @@
 
 <p align="center">
   <a href="https://instagram.com/alec1o"><image width="64px" src="/instagram.png" alt="instagram"><a/>
-  <a href="https://youtube.com/@alec1o"><image width="64px" src="/youtube.png" alt="youtube"><a/>
-  <a href="https://linkedin.com/in/alec1o/"><image width="64px" src="/linkedin" alt="linkedin"><a/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@alec1o"><image width="64px" src="/youtube.png" alt="youtube"><a/>&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/alec1o/"><image width="64px" src="/linkedin.png" alt="linkedin"><a/>
 </p>
 
 <h2 align="center">MY SKILLS</h2>
