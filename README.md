@@ -1,16 +1,18 @@
-<h2 align="center">ABOUT ME</h2>
-
-<p><code>NAME</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALECIO FURANZE<p></p>
-<p><code>COUNTRY</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOZAMBIQUE</p></p>
-<p><code>EMPLOY</code><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOFTWARE DEVELOPER</p></p>
+<h2 align="center">𝒜𝒷𝑜𝓊𝓉 𝓂𝑒<h2>
 
 <p align="center">
-  <a href="https://instagram.com/alec1o"><image width="64px" src="/instagram.png" alt="instagram"><a/>
+  <a href="https://instagram.com/alec1o"><image width="32px" src="/instagram.png" alt="instagram"><a/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@alec1o"><image width="64px" src="/youtube.png" alt="youtube"><a/>&nbsp;
+  <a href="https://youtube.com/@alec1o"><image width="32px" src="/youtube.png" alt="youtube"><a/>&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/alec1o/"><image width="64px" src="/linkedin.png" alt="linkedin"><a/>
+  <a href="https://linkedin.com/in/alec1o/"><image width="32px" src="/linkedin.png" alt="linkedin"><a/>
 </p>
+  
+<h4><code>Nαɱҽ</code>&nbsp;&nbsp;&nbsp;A𝓁ҽƈισ Fυɾαɳȥҽ</h4>
+<h4><code>Cσυɳƚɾყ</code>&nbsp;&nbsp;MσȥαɱႦιϙυҽ</h4>
+<h4><code>Wσɾƙ</code>&nbsp;&nbsp;Gαɱҽ Dҽʋҽʅσρҽɾ</h4>
+
+
 
 <h2 align="center">MY SKILLS</h2>
 
