@@ -8,9 +8,9 @@
   <a href="https://linkedin.com/in/alec1o/"><image width="32px" src="/linkedin.png" alt="linkedin"><a/>
 </p>
   
-<h4><code>Nαɱҽ</code>&nbsp;&nbsp;&nbsp;A𝓁ҽƈισ Fυɾαɳȥҽ</h4>
-<h4><code>Cσυɳƚɾყ</code>&nbsp;&nbsp;MσȥαɱႦιϙυҽ</h4>
-<h4><code>Wσɾƙ</code>&nbsp;&nbsp;Gαɱҽ Dҽʋҽʅσρҽɾ</h4>
+<h4> ♂️ <code>Nαɱҽ</code>&nbsp;&nbsp;&nbsp;A𝓁ҽƈισ Fυɾαɳȥҽ</h4>
+<h4>🌎 <code>Cσυɳƚɾყ</code>&nbsp;&nbsp;MσȥαɱႦιϙυҽ</h4>
+<h4>🎮 <code>Wσɾƙ</code>&nbsp;&nbsp;Gαɱҽ Dҽʋҽʅσρҽɾ</h4>
 
 <h2 align="center">𝑀𝓎 𝒮𝓀𝒾𝓁𝓁𝓈</h2>
 <p align="end"><code>💬Bҽɠιɳɳҽɾ</code> <code>🔭 Iɳƚҽɾɱҽԃιαƚҽ</code> <code>⚡ Aԃʋαɳƈҽԃ</code></p>
