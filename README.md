@@ -12,11 +12,14 @@
 <h4><code>Cσυɳƚɾყ</code>&nbsp;&nbsp;MσȥαɱႦιϙυҽ</h4>
 <h4><code>Wσɾƙ</code>&nbsp;&nbsp;Gαɱҽ Dҽʋҽʅσρҽɾ</h4>
 
+<h2 align="center">𝑀𝓎 𝒮𝓀𝒾𝓁𝓁𝓈</h2>
+<p align="end"><code>💬Bҽɠιɳɳҽɾ</code> <code>🔭 Iɳƚҽɾɱҽԃιαƚҽ</code> <code>⚡ Aԃʋαɳƈҽԃ</code></p>
 
-
-<h2 align="center">MY SKILLS</h2>
-
-|
+| Fɾσɳƚҽɳԃ       | Bαƈƙҽɳԃ           | DҽʋOρʂ              | Gαɱҽ              | Cαƈԋҽ / DαƚαႦαʂҽ |
+| ---            | ---               |---                  | ---               | ---               |
+| ```🔭 React``` | ```🔭 Next```    | ```🔭 Docker```    | ```⚡ Unity```    | ```💬 Redis ```  |
+| ```🔭 Redux``` | ```💬 Nest```    | ```💬 Nginx```     | ```💬 Unreal```   | ```💬 MySQL```   |
+| ```💬 Vue```   | ```💬 Adonis```  | ```💬 Kubernetes```| ```💬 Blender```  | ```💬 MongoDB``` |
 
 
 <!--
