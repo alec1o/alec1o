@@ -1,5 +1,3 @@
-<h2 align="center">𝒜𝒷𝑜𝓊𝓉 𝓂𝑒<h2>
-
 <p align="center">
   <a href="https://instagram.com/alec1o"><image width="32px" src="/instagram.png" alt="instagram"><a/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7,15 +5,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alec1o/"><image width="32px" src="/linkedin.png" alt="linkedin"><a/>
 </p>
-  
-<h4> ♂️ <code>Name</code>&nbsp;&nbsp;&nbsp;A𝓁ҽƈισ Fυɾαɳȥҽ</h4>
-<h4>🌎 <code>Country</code>&nbsp;&nbsp;MσȥαɱႦιϙυҽ</h4>
-<h4>🎮 <code>Work</code>&nbsp;&nbsp;Gαɱҽ Dҽʋҽʅσρҽɾ</h4>
+    
+<h4> ♂️ <code>Name</code>&nbsp;&nbsp;&nbsp;Alecio Furanze</h4>
+<h4>🌎 <code>Country</code>&nbsp;&nbsp;Mozambique</h4>
+<h4>🎮 <code>Work</code>&nbsp;&nbsp;Software Developer</h4>
 
-<h2 align="center">𝑀𝓎 𝒮𝓀𝒾𝓁𝓁𝓈</h2>
-<p align="end"><code>💬Bҽɠιɳɳҽɾ</code> <code>🔭 Iɳƚҽɾɱҽԃιαƚҽ</code> <code>⚡ Aԃʋαɳƈҽԃ</code></p>
+<p align="end"><code>💬 Noob</code> <code>🔭 Player</code> <code>⚡ Pro</code></p>
 
-| Fɾσɳƚҽɳԃ       | Bαƈƙҽɳԃ           | DҽʋOρʂ              | Gαɱҽ              | Cαƈԋҽ / DαƚαႦαʂҽ |  Mσɾҽ             |
+| Frontend       | Backend           | DevOps              | Game              | Cache / Database  |  More             |
 | ---            | ---               |---                  | ---               | ---               | ---               |
 | ```🔭 React``` | ```🔭 Next```    | ```🔭 Docker```    | ```⚡ Unity```    | ```💬 Redis```   | ```💬 RabbitMQ ```|
 | ```🔭 Redux``` | ```💬 Nest```    | ```💬 Nginx```     | ```💬 Unreal```   | ```💬 MongoDB``` |                    |
