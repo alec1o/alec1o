@@ -15,7 +15,7 @@
 <h2 align="center">𝑀𝓎 𝒮𝓀𝒾𝓁𝓁𝓈</h2>
 <p align="end"><code>💬Bҽɠιɳɳҽɾ</code> <code>🔭 Iɳƚҽɾɱҽԃιαƚҽ</code> <code>⚡ Aԃʋαɳƈҽԃ</code></p>
 
-| Fɾσɳƚҽɳԃ       | Bαƈƙҽɳԃ           | DҽʋOρʂ              | Gαɱҽ              | Cαƈԋҽ / DαƚαႦαʂҽ |  𝓞𝓽𝓱𝓮𝓻𝓼            |
+| Fɾσɳƚҽɳԃ       | Bαƈƙҽɳԃ           | DҽʋOρʂ              | Gαɱҽ              | Cαƈԋҽ / DαƚαႦαʂҽ |  Mσɾҽ           |
 | ---            | ---               |---                  | ---               | ---               | ---                 |
 | ```🔭 React``` | ```🔭 Next```    | ```🔭 Docker```    | ```⚡ Unity```    | ```💬 Redis```    | ```💬 RabbitMQ ``` |
 | ```🔭 Redux``` | ```💬 Nest```    | ```💬 Nginx```     | ```💬 Unreal```   | ```💬 MongoDB```  |                    |
