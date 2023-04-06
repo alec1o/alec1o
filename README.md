@@ -14,9 +14,9 @@
     
 | Frontend       | Backend           | DevOps              | Game              | Cache / Database  |  More             |
 | ---            | ---               |---                  | ---               | ---               | ---               |
-| ```🍸 React``` | ```🍸 Next```    | ```🍸 Docker```    | ```🍷 Unity```    | ```🍼 Redis```   | ```🍼 RabbitMQ ```|
-| ```🍸 Redux``` | ```🍼 Nest```    | ```🍼 Nginx```     | ```🍼 Unreal```   | ```🍼 MongoDB``` |                    |
-| ```🍼 Vue```   | ```🍼 Adonis```  | ```🍼 Kubernetes```| ```🍼 Blender```  | ```🍼 MySQL```   |                    |
+| ```🍸 React``` | ```🍸 Next```    | ```🍸 Docker```    | ```🍷 Unity Engine```    | ```🍼 Redis```   | ```🍼 RabbitMQ ```|
+| ```🍸 Redux``` | ```🍼 Nest```    | ```🍼 Nginx```     | ```🍸 Flax Engine```   | ```🍼 MongoDB``` |                    |
+| ```🍼 Vue```   | ```🍼 Adonis```  | ```🍼 Kubernetes```| ```🍼 Unreal Engine```  | ```🍼 MySQL```   |                    |
 
 
 <!--
