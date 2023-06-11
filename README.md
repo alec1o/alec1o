@@ -5,10 +5,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alec1o/"><image width="32px" src="/linkedin.png" alt="linkedin"><a/>
 </p>
-    
-<h4>👤 <code>Name</code>&nbsp;&nbsp;&nbsp;Alecio Furanze</h4>
-<h4>🌎 <code>Country</code>&nbsp;&nbsp;Mozambique</h4>
-<h4>💼 <code>Work</code>&nbsp;&nbsp;Software Developer</h4>
 
 <p align="end"><code>🍼 Lv.1 </code>&nbsp;&nbsp;&nbsp; <code>🍸 Lv.2 </code>&nbsp;&nbsp;&nbsp; <code>🍷Lv.3 </code></p>
     
