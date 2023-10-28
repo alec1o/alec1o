@@ -1,0 +1,40 @@
+#profile-image {
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+}
+
+#name-title {
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    padding: 0;
+    margin: 32px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+
+.cover-nav {
+    display: flex;
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.cover-link {
+    background-color: #2050ce;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid #5020ce;
+    color: white !important;
+}
