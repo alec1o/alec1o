@@ -16,6 +16,8 @@
 
 <br/>
 
+<details>
+<summary><sub>Frontend</sub></summary>
 <div align="center">
 
 #### <sub>Frontend stacks _(not limited to)_ </sub>
@@ -24,6 +26,10 @@
 | --- |
 
 </div>
+</details>
+
+<details>
+<summary><sub>Backend</sub></summary>
 
 <div align="center">
 
@@ -33,6 +39,10 @@
 | --- | --- |
 
 </div>
+</details>
+
+<details>
+<summary><sub>Database & Cache</sub></summary>
 
 <div align="center">
 
@@ -42,6 +52,10 @@
 | --- |
 
 </div>
+</details>
+
+<details>
+<summary><sub>DevOps</sub></summary>
 
 <div align="center">
 
@@ -51,6 +65,10 @@
 | --- |
 
 </div>
+</details>
+
+<details>
+<summary><sub>Game Dev</sub></summary>
 
 <div align="center">
 
@@ -61,6 +79,11 @@
 
 </div>
 
+</details>
+
+<details>
+<summary><sub>Extra</sub></summary>
+    
 <div align="center">
 
 #### <sub>Extra stacks _(not limited to)_ </sub>
@@ -69,8 +92,4 @@
 | --- |
 
 </div>
-
-
-<details>
-<summary><sub>ALEC1O</sub></summary>
 </details>
