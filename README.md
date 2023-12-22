@@ -17,35 +17,42 @@
 </div>
 
 <h4>
-    <sub><strong>Frontend&nbsp;&nbsp;&nbsp;</strong></sub>
-    <sub><img width="14px" src="/react.png" /></sub>&nbsp;&nbsp;
-    <sub><img width="14px" src="/html.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/css.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/sass.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/js.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/typescript.png" /></sub>
+    <h5>
+        <sub><strong>Frontend</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/react.png" /></sub>&nbsp;&nbsp;
+    <sub><img width="18px" src="/html.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/css.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/sass.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/js.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/typescript.png" /></sub>
+</h4>
+
+
+<h4>
+    <h5>
+        <sub><strong>Backend</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/nodejs.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/typescript.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/js.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/expressjs2.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/nextjs.svg" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/adonisjs.png" /></sub>  &nbsp;&nbsp;
+    <sub><img width="18px" src="/nestjs.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/dotnet.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/c-sharp.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/aspnet.webp" /></sub>
 </h4>
 
 <h4>
-    <sub><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sub>
-    <sub><img width="14px" src="/nodejs.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/typescript.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/js.png" /></sub> &nbsp;&nbsp;
-    <sub><img height="14px" src="/expressjs2.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/nextjs.svg" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/adonisjs.png" /></sub>  &nbsp;&nbsp;
-    <sub><img width="14px" src="/nestjs.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/dotnet.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/c-sharp.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/aspnet.webp" /></sub>
-</h4>
-
-<h4>
-    <sub><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sub>
-    <sub><img width="14px" src="/sql.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/postgre.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/mongodb.png" /></sub> &nbsp;&nbsp;
-    <sub><img width="14px" src="/redis.png" /></sub>
+    <h5>
+        <sub><strong>Storage</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/sql.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/postgre.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/mongodb.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/redis.png" /></sub>
 </h4>
 
 </br>
