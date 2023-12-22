@@ -28,8 +28,7 @@
 
 </br>
 
-| <sub>SQL</sub> &nbsp;&nbsp; <sup>PostgreSQL</sup> &nbsp;&nbsp; <sub>MongoDB</sub> &nbsp;&nbsp; <sup>Redis</sup> |
-| --- |
+<span><sup><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sup> <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp; <sup><img width="14px" src="/postgre.png" /> PostgreSQL</sup> &nbsp;&nbsp; <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp; <sup><img width="14px" src="/redis.png" /> Redis</sup> </span>
 
 
 | <sub>Linux</sub> &nbsp;&nbsp; <sup>Docker</sup> &nbsp;&nbsp; <sub>Nginx</sub> |  
