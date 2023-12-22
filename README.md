@@ -21,27 +21,27 @@
 </br>
 
 <span>
-    <sup><strong>Frontend&nbsp;&nbsp;&nbsp;</strong></sup>
+    <sub><strong>Frontend&nbsp;&nbsp;&nbsp;</strong></sub>
     <sub><img width="14px" src="/react.png" /> ReactJS</sub>&nbsp;&nbsp;
-    <sup><img width="14px" src="/html.png" /> HTML</sup> &nbsp;&nbsp;
+    <sub><img width="14px" src="/html.png" /> HTML</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/css.png" /> CSS</sub> &nbsp;&nbsp;
-    <sup><img width="14px" src="/sass.png" /> SASS</sup> &nbsp;&nbsp;
+    <sub><img width="14px" src="/sass.png" /> SASS</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp;
-    <sup><img width="14px" src="/typescript.png" /> TypeScript</sup>
+    <sub><img width="14px" src="/typescript.png" /> TypeScript</sub>
 </span>
 
 </br>
 
-<span><sup><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sup> <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img height="14px" src="/expressjs2.png" /> ExpressJS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;  <sup><img width="14px" src="/adonisjs.png" /> AdonisJS</sup>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/dotnet.png" /> .NET</sup> &nbsp;&nbsp; <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp; <sup><img width="14px" src="/aspnet.webp" /> Asp.NET</sup> </span>
+<span><sub><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sub> <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/typescript.png" /> TypeScript</sub> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sub><img height="14px" src="/expressjs2.png" /> ExpressJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;  <sub><img width="14px" src="/adonisjs.png" /> AdonisJS</sub>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/dotnet.png" /> .NET</sub> &nbsp;&nbsp; <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp; <sub><img width="14px" src="/aspnet.webp" /> Asp.NET</sub> </span>
 
 </br>
 
-<span><sup><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sup> <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp; <sup><img width="14px" src="/postgre.png" /> PostgreSQL</sup> &nbsp;&nbsp; <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp; <sup><img width="14px" src="/redis.png" /> Redis</sup> </span>
+<span><sub><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sub> <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp; <sub><img width="14px" src="/postgre.png" /> PostgreSQL</sub> &nbsp;&nbsp; <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp; <sub><img width="14px" src="/redis.png" /> Redis</sub> </span>
 
-| <sub>Linux</sub> &nbsp;&nbsp; <sup>Docker</sup> &nbsp;&nbsp; <sub>Nginx</sub> |  
+| <sub>Linux</sub> &nbsp;&nbsp; <sub>Docker</sub> &nbsp;&nbsp; <sub>Nginx</sub> |  
 | --- |
 
-| <sub>FlaxEngine</sub> &nbsp;&nbsp; <sup>Blender3D</sup> &nbsp;&nbsp; <sub>UnityEngine</sub> |  
+| <sub>FlaxEngine</sub> &nbsp;&nbsp; <sub>Blender3D</sub> &nbsp;&nbsp; <sub>UnityEngine</sub> |  
 | --- |
 
 | <sub>RabbitMQ</sub> |  
