@@ -22,7 +22,7 @@
 | --- |
 
 
-| <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/expressjs.png" /> ExpressJS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;  <sup><img width="14px" src="/adonisjs.png" /> AdonisJS</sup>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> |  <sup><img width="14px" src="/dotnet.png" /> .NET</sup> &nbsp;&nbsp; <sub><img width="14px" src="/cs.png" /> C#</sub> &nbsp;&nbsp; <sup><img width="14px" src="/aspnet.png" /> Asp.NET</sup>  |
+| <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/expressjs.png" /> ExpressJS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;  <sup><img width="14px" src="/adonisjs.png" /> AdonisJS</sup>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> |  <sup><img width="14px" src="/dotnet.png" /> .NET</sup> &nbsp;&nbsp; <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp; <sup><img width="14px" src="/aspnet.webp" /> Asp.NET</sup>  |
 | --- | --- |
 
 
