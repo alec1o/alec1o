@@ -31,8 +31,6 @@
     <sub><img width="18px" src="/typescript.png" /></sub>
 </h4>
 
------------------------
-
 <h4>
     <h5>
         <sub><strong>Backend</strong></sub>
@@ -49,8 +47,6 @@
     <sub><img width="18px" src="/aspnet.webp" /></sub>
 </h4>
 
------------------------
-
 <h4>
     <h5>
         <sub><strong>Storage</strong></sub>
@@ -61,8 +57,6 @@
     <sub><img width="18px" src="/redis.png" /></sub>
 </h4>
 
-<hr>
-
 <h4>
     <h5>
         <sub><strong>DevOps</strong></sub>
@@ -72,8 +66,6 @@
     <sub><img width="18px" src="/nginx.png" /></sub>
 </h4>
 
------------------------
-
 <h4>
     <h5>
         <sub><strong>Game Dev</strong></sub>
@@ -82,8 +74,6 @@
     <sub><img width="18px" src="/blender3d.png" /></sub> &nbsp;&nbsp;
     <sub><img width="18px" src="/unityengine.png" /></sub>
 </h4>
-
------------------------
 
 <h4>
     <h5>
