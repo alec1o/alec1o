@@ -16,6 +16,9 @@
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+<td>
 <h4>
     <h5>
         <sub><strong>Frontend</strong></sub>
@@ -27,6 +30,8 @@
     <sub><img width="18px" src="/js.png" /></sub> &nbsp;&nbsp;
     <sub><img width="18px" src="/typescript.png" /></sub>
 </h4>
+
+<hr>
 
 <h4>
     <h5>
@@ -44,6 +49,8 @@
     <sub><img width="18px" src="/aspnet.webp" /></sub>
 </h4>
 
+<hr>
+
 <h4>
     <h5>
         <sub><strong>Storage</strong></sub>
@@ -54,6 +61,8 @@
     <sub><img width="18px" src="/redis.png" /></sub>
 </h4>
 
+<hr>
+
 <h4>
     <h5>
         <sub><strong>DevOps</strong></sub>
@@ -62,6 +71,8 @@
     <sub><img width="18px" src="/docker.png" /></sub> &nbsp;&nbsp;
     <sub><img width="18px" src="/nginx.png" /></sub>
 </h4>
+
+<hr>
 
 <h4>
     <h5>
@@ -72,9 +83,15 @@
     <sub><img width="18px" src="/unityengine.png" /></sub>
 </h4>
 
+<hr>
+
 <h4>
     <h5>
         <sub><strong>Others</strong></sub>
     </h5>
     <sub><img width="18px" src="/rabbitmq.png" /></sub> &nbsp;&nbsp;
 </h4>
+</td>
+</tr>
+</table>
+    
