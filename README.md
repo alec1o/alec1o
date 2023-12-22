@@ -28,7 +28,6 @@
     <sub><img width="18px" src="/typescript.png" /></sub>
 </h4>
 
-
 <h4>
     <h5>
         <sub><strong>Backend</strong></sub>
@@ -55,14 +54,27 @@
     <sub><img width="18px" src="/redis.png" /></sub>
 </h4>
 
-</br>
+<h4>
+    <h5>
+        <sub><strong>DevOps</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/linux.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/docker.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/nginx.png" /></sub>
+</h4>
 
-| <sub>Linux</sub> &nbsp;&nbsp; <sub>Docker</sub> &nbsp;&nbsp; <sub>Nginx</sub> |  
-| --- |
+<h4>
+    <h5>
+        <sub><strong>Game Dev</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/flaxengine.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/blender3d.png" /></sub> &nbsp;&nbsp;
+    <sub><img width="18px" src="/unityengine.png" /></sub>
+</h4>
 
-| <sub>FlaxEngine</sub> &nbsp;&nbsp; <sub>Blender3D</sub> &nbsp;&nbsp; <sub>UnityEngine</sub> |  
-| --- |
-
-| <sub>RabbitMQ</sub> |  
-| --- |
-
+<h4>
+    <h5>
+        <sub><strong>Others</strong></sub>
+    </h5>
+    <sub><img width="18px" src="/rabbitmq.png" /></sub> &nbsp;&nbsp;
+</h4>
