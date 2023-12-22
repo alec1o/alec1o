@@ -60,7 +60,7 @@
 
 #### <sub>DevOps stacks _(not limited to)_ </sub>
 
-| <sub>Linux</sub> &nbsp;&nbsp; <sup>Docker</sup> &nbsp;&nbsp; <sub>Nginx</sub |  
+| <sub>Linux</sub> &nbsp;&nbsp; <sup>Docker</sup> &nbsp;&nbsp; <sub>Nginx</sub> |  
 | --- |
 
 </div>
