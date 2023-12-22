@@ -11,8 +11,9 @@
 </div>
 
 <div align="center">
-    <h2>Alecio Furanze</sub></h2>
-    </br>
+    
+### _Alecio Furanze_
+
 </div>
 
 <h4>
