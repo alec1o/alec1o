@@ -18,11 +18,11 @@
 
 <div align="left">
 
-| <sub><img width="14px" src="/react.png" /> ReactJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/html.png" /> HTML</sup> &nbsp;&nbsp; <sub><img width="14px" src="/css.png" /> CSS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/sass.png" /> SCSS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> |  
+| <sub><img width="14px" src="/react.png" /> ReactJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/html.png" /> HTML</sup> &nbsp;&nbsp; <sub><img width="14px" src="/css.png" /> CSS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/sass.png" /> SASS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> |  
 | --- |
 
 
-| <sub>NodeJS</sub> &nbsp;&nbsp; <sup>TypeScript</sup> &nbsp;&nbsp; <sub>JavaScript</sub> &nbsp;&nbsp; <sup>ExpressJS</sup> &nbsp;&nbsp; <sub>NextJS</sub> &nbsp;&nbsp;  <sup>AdonisJS</sup>  &nbsp;&nbsp; <sub>NestJS</sub> |  <sup>.NET</sup> &nbsp;&nbsp; <sub>C#</sub> &nbsp;&nbsp; <sup>Asp.NET</sup>  |
+| <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/expressjs.png" /> ExpressJS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.png" /> NextJS</sub> &nbsp;&nbsp;  <sup><img width="14px" src="/adonisjs.png" /> AdonisJS</sup>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> |  <sup><img width="14px" src="/dotnet.png" /> .NET</sup> &nbsp;&nbsp; <sub><img width="14px" src="/cs.png" /> C#</sub> &nbsp;&nbsp; <sup><img width="14px" src="/aspnet.png" /> Asp.NET</sup>  |
 | --- | --- |
 
 
