@@ -16,10 +16,6 @@
 
 </div>
 
-<div align="left">
-
-</br>
-
 <span>
     <sub><strong>Frontend&nbsp;&nbsp;&nbsp;</strong></sub>
     <sub><img width="14px" src="/react.png" /> ReactJS</sub>&nbsp;&nbsp;
@@ -32,11 +28,31 @@
 
 </br>
 
-<span><sub><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sub> <sub><img width="14px" src="/nodejs.png" /> NodeJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/typescript.png" /> TypeScript</sub> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sub><img height="14px" src="/expressjs2.png" /> ExpressJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;  <sub><img width="14px" src="/adonisjs.png" /> AdonisJS</sub>  &nbsp;&nbsp; <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> &nbsp;&nbsp; <sub><img width="14px" src="/dotnet.png" /> .NET</sub> &nbsp;&nbsp; <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp; <sub><img width="14px" src="/aspnet.webp" /> Asp.NET</sub> </span>
+<span>
+    <sub><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sub>
+    <sub><img width="14px" src="/nodejs.png" />NodeJS</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/typescript.png" /> TypeScript</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp;
+    <sub><img height="14px" src="/expressjs2.png" /> ExpressJS</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/nextjs.svg" /> NextJS</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/adonisjs.png" /> AdonisJS</sub>  &nbsp;&nbsp;
+    <sub><img width="14px" src="/nestjs.png" /> NestJS</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/dotnet.png" /> .NET</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/aspnet.webp" /> Asp.NET</sub>
+</span>
 
 </br>
 
-<span><sub><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sub> <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp; <sub><img width="14px" src="/postgre.png" /> PostgreSQL</sub> &nbsp;&nbsp; <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp; <sub><img width="14px" src="/redis.png" /> Redis</sub> </span>
+<span>
+    <sub><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sub>
+    <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/postgre.png" /> PostgreSQL</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp;
+    <sub><img width="14px" src="/redis.png" /> Redis</sub>
+</span>
+
+</br>
 
 | <sub>Linux</sub> &nbsp;&nbsp; <sub>Docker</sub> &nbsp;&nbsp; <sub>Nginx</sub> |  
 | --- |
@@ -47,4 +63,3 @@
 | <sub>RabbitMQ</sub> |  
 | --- |
 
-</div>
