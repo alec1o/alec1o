@@ -1,17 +1,19 @@
 <div align="end">
-    <a href="https://instagram.com/alec1o"><img width="32px" src="/instagram.png" alt="instagram"/></a>
-&nbsp;
-    <a href="https://youtube.com/@alec1o"><img width="32px" src="/youtube.png" alt="youtube"/></a>
-&nbsp;
-    <a href="https://linkedin.com/in/alec1o/"><img width="32px" src="/linkedin.png" alt="linkedin"/></a>
-&nbsp;
-    <a href="mailto://i@alecio.me"><img width="32px" src="/email.png" alt="email"/></a>
-&nbsp;
-    <a href="http://www.alecio.me/"><img width="32px" src="/website.png" alt="website"/></a>
+    <a target="_blank" href="https://instagram.com/alec1o"><img width="32px" src="/instagram.png" alt="instagram"/></a>
+&nbsp;&nbsp;
+    <a target="_blank" href="https://youtube.com/@alec1o"><img width="32px" src="/youtube.png" alt="youtube"/></a>
+&nbsp;&nbsp;
+    <a target="_blank" href="https://linkedin.com/in/alec1o/"><img width="32px" src="/linkedin.png" alt="linkedin"/></a>
+&nbsp;&nbsp;
+    <a target="_blank" href="mailto://i@alecio.me"><img width="32px" src="/email.png" alt="email"/></a>
+&nbsp;&nbsp;
+    <a target="_blank" href="http://www.alecio.me/"><img width="32px" src="/website.png" alt="website"/></a>
 </div>
 
 <div align="center">
-    <h2>Alecio Furanze</h2>
+    
+## _Alecio Furanze_
+
 </div>
 
 
