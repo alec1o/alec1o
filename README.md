@@ -1,7 +1,3 @@
-<div align="center">
-    <h4>Alecio Furanze</h4>
-</div>
-
 <div align="end">
     <a href="https://instagram.com/alec1o"><img width="32px" src="/instagram.png" alt="instagram"/></a>
 &nbsp;
@@ -14,7 +10,10 @@
     <a href="http://www.alecio.me/"><img width="32px" src="/website.png" alt="website"/></a>
 </div>
 
-<br/>
+<div align="center">
+    <h2>Alecio Furanze</h2>
+</div>
+
 
 <details>
 <summary><sub>Frontend</sub></summary>
