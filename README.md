@@ -16,7 +16,7 @@
 
 </div>
 
-<span>
+<h4>
     <sub><strong>Frontend&nbsp;&nbsp;&nbsp;</strong></sub>
     <sub><img width="14px" src="/react.png" /> ReactJS</sub>&nbsp;&nbsp;
     <sub><img width="14px" src="/html.png" /> HTML</sub> &nbsp;&nbsp;
@@ -24,11 +24,9 @@
     <sub><img width="14px" src="/sass.png" /> SASS</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/typescript.png" /> TypeScript</sub>
-</span>
+</h4>
 
-</br>
-
-<span>
+<h4>
     <sub><strong>Backend&nbsp;&nbsp;&nbsp;</strong></sub>
     <sub><img width="14px" src="/nodejs.png" />NodeJS</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/typescript.png" /> TypeScript</sub> &nbsp;&nbsp;
@@ -40,17 +38,15 @@
     <sub><img width="14px" src="/dotnet.png" /> .NET</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/c-sharp.png" /> C#</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/aspnet.webp" /> Asp.NET</sub>
-</span>
+</h4>
 
-</br>
-
-<span>
+<h4>
     <sub><strong>Storage&nbsp;&nbsp;&nbsp;</strong></sub>
     <sub><img width="14px" src="/sql.png" /> SQL</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/postgre.png" /> PostgreSQL</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/mongodb.png" /> MongoDB</sub> &nbsp;&nbsp;
     <sub><img width="14px" src="/redis.png" /> Redis</sub>
-</span>
+</h4>
 
 </br>
 
