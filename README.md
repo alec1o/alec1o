@@ -16,18 +16,15 @@
 
 </div>
 
-
-<details>
-<summary><sub>Frontend</sub></summary>
 <div align="center">
 
 #### <sub>Frontend stacks _(not limited to)_ </sub>
 
-| <sub>ReactJS</sub> &nbsp;&nbsp; <sup>HTML</sup> &nbsp;&nbsp; <sub>CSS</sub> &nbsp;&nbsp; <sup>SCSS</sup> &nbsp;&nbsp; <sub>JavaScript</sub> &nbsp;&nbsp; <sup>TypeScript</sup> |  
+| <sub><img width="14px" src="/react.png" /> ReactJS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/html.png" /> HTML</sup> &nbsp;&nbsp; <sub><img width="14px" src="/css.png" /> CSS</sub> &nbsp;&nbsp; <sup><img width="14px" src="/sass.png" /> SCSS</sup> &nbsp;&nbsp; <sub><img width="14px" src="/js.png" /> JavaScript</sub> &nbsp;&nbsp; <sup><img width="14px" src="/typescript.png" /> TypeScript</sup> |  
 | --- |
 
 </div>
-</details>
+
 
 <details>
 <summary><sub>Backend</sub></summary>
