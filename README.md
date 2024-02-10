@@ -6,12 +6,19 @@
     <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="/website.png" alt="website"     /></a>&nbsp;
 </div>
 
+</br>
+
 <h3 align="center"><i>Alecio Furanze</i></h3>
+
+</br>
 
 <div align="end">
     <p><sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp; 🗺️</p>
     <p><sup>🇧🇷 Portuguese • 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️</p>
 </div>
+
+</br>
+
 <table>
     <tr>
         <th>
