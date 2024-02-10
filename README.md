@@ -9,8 +9,8 @@
 <h3 align="center"><i>Alecio Furanze</i></h3>
 
 <div align="end">
-    <p>🗺️ <sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    <p>🗣️ <sup>🇧🇷 Portuguese | 🇺🇸 English</sup></p>
+    <p><sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp; 🗺️</p>
+    <p><sup>🇧🇷 Portuguese | 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️</p>
 </div>
 <table>
     <tr>
