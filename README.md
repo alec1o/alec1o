@@ -13,8 +13,11 @@
 </br>
 
 <div align="end">
-    <p><sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp; 🗺️</p>
-    <p><sup>🇧🇷 Portuguese &nbsp;&nbsp; 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️</p>
+    <p>
+        <sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp; 🗺️
+        </br>
+        <sup>🇧🇷 Portuguese &nbsp;&nbsp; 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️
+    </p>
 </div>
 
 </br>
