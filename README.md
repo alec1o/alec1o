@@ -10,7 +10,7 @@
 
 <div align="end">
     <p><sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp; 🗺️</p>
-    <p><sup>🇧🇷 Portuguese | 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️</p>
+    <p><sup>🇧🇷 Portuguese • 🇺🇸 English</sup>  &nbsp;&nbsp; 🗣️</p>
 </div>
 <table>
     <tr>
