@@ -15,7 +15,7 @@
 <table>
     <tr>
         <th>
-            <sub>S K I L L</sub><sup>s</sup>
+            <sub>SKILL</sub><sup>s</sup>
         </th>
     </tr>
     <tr>
