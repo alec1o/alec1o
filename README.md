@@ -54,29 +54,28 @@
                 <img height="20px" src="https://img.shields.io/badge/HTML-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/CSS-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/JavaScript-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/TypeScript-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/React.Js-0c1119?style=for-the-badge"/>
             </sup>
             </br>
             <sup>
                 <img height="20px" src="https://img.shields.io/badge/BACK_END%E2%A0%80-2050ce?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/C%23-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/Asp.NET-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/Node.Js-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/Express.Js-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/TypeScript-0c1119?style=for-the-badge"/>
             </sup>
             </br>
             <sup>
                 <img height="20px" src="https://img.shields.io/badge/Storage%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
                 <img height="20px" src="https://img.shields.io/badge/Redis-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/Postigre_SQL-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/MongoDB-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/Mongo_DB-0c1119?style=for-the-badge"/>
             </sup>
             </br>
             <sup>
                 <img height="20px" src="https://img.shields.io/badge/DevOps%20%20%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/Docker-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/LINUX-0c1119?style=for-the-badge"/>
                 <img height="20px" src="https://img.shields.io/badge/Nginx-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/Docker-0c1119?style=for-the-badge"/>
             </sup>
             </br>
             <sup>
@@ -88,7 +87,9 @@
             </br>
             <sup>
                 <img height="20px" src="https://img.shields.io/badge/Extra%20%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/RabbitMQ-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/RabbitMQ-0c1119?style=for-the-badge"/>                
+                <img height="20px" src="https://img.shields.io/badge/TypeScript-0c1119?style=for-the-badge"/>
+                <img height="20px" src="https://img.shields.io/badge/RegEx-0c1119?style=for-the-badge"/>
             </sup>
         </td>
     </tr>
