@@ -12,12 +12,29 @@
 
 </br>
 
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/alec1o/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/in/alec1o/)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website--_.svg?style=social&logo=googlechrome)](http://www.alecio.me/)
+
+</div>
+
+</br>
+
 <div align="end">
     <p>
         <sup>🇲🇿 Mozambique</sup> &nbsp;&nbsp;  🗺️
         </br>
         <sup>🇧🇷 Portuguese &nbsp;&nbsp; 🇺🇸 English</sup>  &nbsp;&nbsp;  🗣️
     </p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/alec1o)
+&nbsp;
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow)
+    
 </div>
 
 </br>
