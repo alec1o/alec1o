@@ -16,7 +16,7 @@
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/alec1o/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/in/alec1o/)
+[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/alec1o/)
 &nbsp;
 [![Website](https://img.shields.io/badge/Website--_.svg?style=social&logo=googlechrome)](http://www.alecio.me/)
 
