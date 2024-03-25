@@ -30,11 +30,11 @@
         </br>
         <sup>🇧🇷 Portuguese &nbsp;&nbsp; 🇺🇸 English</sup>  &nbsp;&nbsp;  🗣️
     </p>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/alec1o)
-&nbsp;
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow)
-    
+    <div>
+        <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
+        &nbsp;
+        <a href="https://www.youtube.com/@alec1o"><img src="https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow" alt="Alecio's YouTube"></a>
+    </div>    
 </div>
 
 </br>
