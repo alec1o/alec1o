@@ -1,4 +1,10 @@
-<div align="end">
+</br>
+
+<h3 align="center"><i>Alecio Furanze</i></h3>
+
+</br>
+
+<div align="center">
     <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="/instagram.png" alt="instagram" /></a>&nbsp;
     <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="/youtube.png" alt="youtube"     /></a>&nbsp;
     <a target="_blank" href="https://linkedin.com/in/alec1o/" ><img width="24px" src="/linkedin.png" alt="linkedin"   /></a>&nbsp;
@@ -8,23 +14,7 @@
 
 </br>
 
-<h3 align="center"><i>Alecio Furanze</i></h3>
-
-</br>
-
-<div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/alec1o/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/alec1o/)
-&nbsp;
-[![Website](https://img.shields.io/badge/Website--_.svg?style=social&logo=googlechrome)](http://www.alecio.me/)
-
-</div>
-
-</br>
-
-<div align="end">    
+<div align="center">    
     <div>
         <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
         &nbsp;
