@@ -48,48 +48,37 @@
     </tr>
     <tr>
         <td>
-            <br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/FRONT_END-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/HTML-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/CSS-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/JavaScript-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/React.Js-0c1119?style=for-the-badge"/>
+                <sub>View</sub><br>
+                <strong>React, Next</strong><br>
             </sup>
-            </br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/BACK_END%E2%A0%80-2050ce?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/Asp.NET-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Node.Js-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Express.Js-0c1119?style=for-the-badge"/>
+                <sub>Server</sub><br>
+                <strong>Express, Asp.NET</strong><br>
             </sup>
-            </br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/Storage%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/Redis-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Postigre_SQL-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Mongo_DB-0c1119?style=for-the-badge"/>
+                <sub>Database</sub><br>
+                <strong>PostigreSQL, MongoDB</strong><br>
             </sup>
-            </br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/DevOps%20%20%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/LINUX-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Nginx-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Docker-0c1119?style=for-the-badge"/>
+                <sub>Cache</sub><br>
+                <strong>Redis, Memcached</strong><br>
             </sup>
-            </br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/Gamedev%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/Unity_Engine-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Flax_Engine-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/Blender-0c1119?style=for-the-badge"/>
+                <sub>Message Broker</sub><br>
+                <strong>RabbitMQ</strong><br>
             </sup>
-            </br>
             <sup>
-                <img height="20px" src="https://img.shields.io/badge/Extra%20%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-2050CE?style=for-the-badge"/>&nbsp;
-                <img height="20px" src="https://img.shields.io/badge/RabbitMQ-0c1119?style=for-the-badge"/>                
-                <img height="20px" src="https://img.shields.io/badge/TypeScript-0c1119?style=for-the-badge"/>
-                <img height="20px" src="https://img.shields.io/badge/RegEx-0c1119?style=for-the-badge"/>
+                <sub>Game Development</sub><br>
+                <strong>FlaxEngine, UnityEngine, Blender</strong><br>
+            </sup>
+            <sup>
+                <sub>Programming Language</sub><br>
+                <strong>C#, TypeScript, Python, C/C++</strong><br>
+            </sup>
+            <sup>
+                <sub>Spoken Language</sub><br>
+                <strong>*Portuguese, English</strong><br>
             </sup>
         </td>
     </tr>
