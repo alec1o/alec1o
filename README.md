@@ -29,7 +29,6 @@
         <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
         &nbsp;
         <a href="https://www.youtube.com/@alec1o"><img src="https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow" alt="Alecio's YouTube"></a>
-        <br><br><i>I'm from</i> <sup><strong>🇲🇿 Mozambique</strong><sup>&nbsp;&nbsp;*Africa</sup></sup><br>
     </div>    
 </div>
 
