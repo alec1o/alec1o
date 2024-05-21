@@ -23,8 +23,10 @@
 </div>
 
 </br>
-</br>
 
+<details>
+<summary><i><strong>See my skills... 💙</strong></i></summary>
+<br>
 <table>
     <tr>
         <th>
@@ -68,3 +70,4 @@
         </td>
     </tr>
 </table>
+</details>
