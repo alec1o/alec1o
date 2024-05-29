@@ -5,11 +5,11 @@
 </br>
 
 <div align="center">
-    <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="/instagram.png" alt="instagram" /></a>&nbsp;
-    <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="/youtube.png" alt="youtube"     /></a>&nbsp;
-    <a target="_blank" href="https://linkedin.com/in/alec1o/" ><img width="24px" src="/linkedin.png" alt="linkedin"   /></a>&nbsp;
-    <a target="_blank" href="mailto://i@alecio.me"            ><img width="24px" src="/email.png" alt="email"         /></a>&nbsp;
-    <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="/website.png" alt="website"     /></a>&nbsp;
+    <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="icon/instagram.png" alt="instagram" /></a>&nbsp;
+    <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="icon/youtube.png" alt="youtube"     /></a>&nbsp;
+    <a target="_blank" href="https://linkedin.com/in/alec1o/" ><img width="24px" src="icon/linkedin.png" alt="linkedin"   /></a>&nbsp;
+    <a target="_blank" href="mailto://i@alecio.me"            ><img width="24px" src="icon/email.png" alt="email"         /></a>&nbsp;
+    <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="icon/website.png" alt="website"     /></a>&nbsp;
 </div>
 
 </br>
