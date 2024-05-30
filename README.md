@@ -1,9 +1,6 @@
 </br>
-
 <h3 align="center"><i>Alecio Furanze</i></h3>
-
 </br>
-
 <div align="center">
     <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="icon/instagram.png" alt="instagram" /></a>&nbsp;
     <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="icon/youtube.png" alt="youtube"     /></a>&nbsp;
@@ -11,9 +8,7 @@
     <a target="_blank" href="mailto://i@alecio.me"            ><img width="24px" src="icon/email.png" alt="email"         /></a>&nbsp;
     <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="icon/website.png" alt="website"     /></a>&nbsp;
 </div>
-
 </br>
-
 <div align="center">    
     <div>
         <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
@@ -21,9 +16,7 @@
         <a href="https://www.youtube.com/@alec1o"><img src="https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow" alt="Alecio's YouTube"></a>
     </div>    
 </div>
-
 </br>
-
 <details>
 <summary><i><strong>See my skills... 💙</strong></i></summary>
 <br>
