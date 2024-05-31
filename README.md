@@ -17,6 +17,9 @@
     </div>    
 </div>
 </br>
+
+[![committers.top badge](https://user-badge.committers.top/mozambique/alec1o.svg)](https://user-badge.committers.top/mozambique/alec1o)
+
 <details>
 <summary><i><strong>See my skills... 💙</strong></i></summary>
 <br>
