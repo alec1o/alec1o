@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/extra/Header";
+import Footer from "@/extra/Footer";
 
 export const metadata: Metadata = {
     title: "@ALEC1O",
@@ -9,7 +11,13 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
     return (
         <html lang="en">
-            <body>{children}</body>
+            <body>
+                <div id="init">
+                    <Header />
+                    <main id="content">{children}</main>
+                </div>
+                <Footer />
+            </body>
         </html>
     );
 }

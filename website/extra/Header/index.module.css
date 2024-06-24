@@ -1,0 +1,24 @@
+.container {
+    background-color: var(--color-header);
+
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: auto;
+    width: 100vw;
+    height: 60px;
+
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+}
