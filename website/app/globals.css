@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 :root {
   --color-header: #ffffffff;
   --color-footer: #ffffff00;
   --color-background: #dee3eeff;
-  --font-family: 'Roboto', sans-serif;
+  --font-family: Inter, Roboto, Arial;
   --color-primary: #110f2b;
 }
 
