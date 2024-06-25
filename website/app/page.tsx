@@ -28,6 +28,7 @@ import { FcLinux } from "react-icons/fc";
 import { GiAfrica } from "react-icons/gi";
 import { FaLanguage } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
+import { PiFireFill } from "react-icons/pi";
 
 export default function Home() {
     const me = {
@@ -43,9 +44,24 @@ export default function Home() {
         { name: "LinkedIn", icon: <FaLinkedin color="#FFFFFF" />, url: "https://www.linkedin.com/in/alec1o" },
     ];
     const artist = [
-        { name: "🥇 VMZ", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg" },
-        { name: "🥈 Juice WRLD", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" },
-        { name: "🥈 XXXTentacion", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4" },
+        {
+            name: "VMZ",
+            position: <PiFireFill size={14} color="#FF0000" clip="FF5733" />,
+            icon: <FaSpotify color="#1ED860" />,
+            url: "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg",
+        },
+        {
+            name: "Juice WRLD",
+            position: <PiFireFill size={14} color="#FF4500" clip="3498DB" />,
+            icon: <FaSpotify color="#1ED860" />,
+            url: "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
+        },
+        {
+            name: "XXXTentacion",
+            position: <PiFireFill size={14} color="#FFA500" clip="27AE60" />,
+            icon: <FaSpotify color="#1ED860" />,
+            url: "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4",
+        },
     ];
     const programming = [
         { name: "AWS", icon: <FaAws color="#FF9C08" /> },
@@ -100,7 +116,7 @@ export default function Home() {
                     <h2 className={styles.linkTitle}>Musical artist</h2>
                     {artist.map((x) => (
                         <Link key={x.name} target="_blank" href={x.url} className={styles.link}>
-                            {x.icon} {x.name}{" "}
+                            {x.icon} {x.name} {x.position}
                         </Link>
                     ))}
                 </div>
