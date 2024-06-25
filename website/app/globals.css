@@ -10,8 +10,9 @@
   --font-family-primary: Kiona, Inter, Roboto, Arial;
   --font-family-secondary: Inter, Roboto, Arial;
   --color-primary: #110f2b;
-  --color-base: #ffffff;
   --color-secondary: #2050ce;
+  --color-base: #ffffff;
+  --color-error: #20ce6e;
 }
 
 * {

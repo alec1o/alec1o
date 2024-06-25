@@ -1,0 +1,25 @@
+.title,
+.warning,
+.info {
+    color: var(--color-base);
+    font-size: 22px;
+    width: 100%;
+    padding: 5px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.warning {
+    font-size: 16px;
+    text-align: left;
+}
+
+.info {
+    font-size: 12px;
+    text-align: right;
+    font-family: var(--font-family-secondary);
+    color: var(--color-error);
+    padding-left: 50%;
+}
