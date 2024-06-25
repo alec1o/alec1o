@@ -25,6 +25,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: var(--color-primary);
 }
 
 .link>svg {
@@ -35,8 +36,4 @@
 
 .selected {
     color: #2050ce;
-}
-
-.selected>svg {
-    /*color: red;*/
 }

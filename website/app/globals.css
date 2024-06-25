@@ -3,7 +3,8 @@
 :root {
   --color-header: #ffffffff;
   --color-footer: #ffffff00;
-  --color-background: #dee3eeff;
+  --color-background2: #dee3eeff;
+  --color-background: #03020c;
   --font-family: Inter, Roboto, Arial;
   --color-primary: #110f2b;
 }
@@ -15,7 +16,6 @@
   outline: none;
   box-sizing: border-box;
   font-family: inherit;
-  color: inherit;
 }
 
 body {
@@ -26,7 +26,6 @@ body {
   min-height: 100vh;
   font-family: var(--font-family);
   background-color: var(--color-background);
-  color: var(--color-primary);
 }
 
 #content {
@@ -37,4 +36,5 @@ body {
   justify-content: flex-start;
   top: 60px;
   padding: 20px;
+
 }
