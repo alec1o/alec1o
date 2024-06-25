@@ -28,13 +28,19 @@
   box-shadow: 0 0 20px 2px var(--color-header);
   border: 2px solid var(--color-header);
   transition: all 0.3s ease-in;
+  animation: color 3s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transition: all 0.5s ease-in-out;
+  box-shadow: 0 0 15px 5px rgb(49, 155, 236);
 }
 
+/*
 .picture:hover {
   box-shadow: 0 0 30px 2px var(--color-secondary);
   border: 2px solid var(--color-secondary);
 }
-
+*/
 .linkContainerReverse,
 .linkContainer {
   display: flex;
@@ -131,4 +137,16 @@
 .info svg {
   font-size: 24px;
   margin-right: 10px;
+}
+
+@keyframes color {
+  0% {
+    box-shadow: 0 0 20px 2px var(--color-header);
+    border: 2px solid var(--color-header);
+  }
+
+  100% {
+    box-shadow: 0 0 30px 2px var(--color-secondary);
+    border: 2px solid var(--color-secondary);
+  }
 }
