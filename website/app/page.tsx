@@ -74,8 +74,8 @@ export default function Home() {
                         className={styles.picture}
                         src={"/profile.jpg"}
                         objectFit="cover"
-                        width={128}
-                        height={128}
+                        width={512}
+                        height={512}
                         alt="Alecio Furanze, Profile Image"
                     />
                 </div>
