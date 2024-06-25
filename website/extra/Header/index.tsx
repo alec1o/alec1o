@@ -23,13 +23,13 @@ export default function Header() {
 
     return (
         <header className={style.container}>
-            <Link className={`${style.link} ${getLinkStyle(LinkOf.Resume)}`} href="#resume" onClick={(e) => setLinkOf(LinkOf.Resume)}>
+            <Link className={`${style.link} ${getLinkStyle(LinkOf.Resume)}`} href="/resume" onClick={(e) => setLinkOf(LinkOf.Resume)}>
                 <IoMdSchool /> Resume
             </Link>
-            <Link className={`${style.link} ${getLinkStyle(LinkOf.Me)}`} href="#me" onClick={(e) => setLinkOf(LinkOf.Me)}>
+            <Link className={`${style.link} ${getLinkStyle(LinkOf.Me)}`} href="/" onClick={(e) => setLinkOf(LinkOf.Me)}>
                 <GiSelfLove /> Me
             </Link>
-            <Link className={`${style.link} ${getLinkStyle(LinkOf.Project)}`} href="#project" onClick={(e) => setLinkOf(LinkOf.Project)}>
+            <Link className={`${style.link} ${getLinkStyle(LinkOf.Project)}`} href="/project" onClick={(e) => setLinkOf(LinkOf.Project)}>
                 <IoCodeSlash /> Project
             </Link>
         </header>
