@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./page.module.css";
 import { FaYoutube } from "react-icons/fa";
-import { AiFillInstagram } from "react-icons/ai";
+import { RiInstagramFill } from "react-icons/ri";
 import { FaGithub } from "react-icons/fa6";
 import { FaSpotify } from "react-icons/fa";
 import { FcDebian } from "react-icons/fc";
@@ -27,6 +27,7 @@ import { FaUnity } from "react-icons/fa6";
 import { FcLinux } from "react-icons/fc";
 import { GiAfrica } from "react-icons/gi";
 import { FaLanguage } from "react-icons/fa6";
+import { FaLinkedin } from "react-icons/fa6";
 
 export default function Home() {
     const me = {
@@ -37,13 +38,14 @@ export default function Home() {
 
     const social = [
         { name: "GitHub", icon: <FaGithub color="#FFFFFF" />, url: "https://github.com/alec1o" },
-        { name: "YouTube", icon: <FaYoutube color="#FC0808" />, url: "https://www.youtube.com/@alec1o" },
-        { name: "Instagram", icon: <AiFillInstagram color="#4E68CC" />, url: "https://www.instagram.com/alec1o" },
+        { name: "Instagram", icon: <RiInstagramFill color="#FFFFF" />, url: "https://www.instagram.com/alec1o" },
+        { name: "YouTube", icon: <FaYoutube color="#FFFFFF" />, url: "https://www.youtube.com/@alec1o" },
+        { name: "LinkedIn", icon: <FaLinkedin color="#FFFFFF" />, url: "https://www.linkedin.com/in/alec1o" },
     ];
     const artist = [
-        { name: "🥇 VMZ", icon: <FaSpotify />, url: "" },
-        { name: "🥈 Juice WRLD", icon: <FaSpotify />, url: "" },
-        { name: "🥈 XXXTentacion", icon: <FaSpotify />, url: "" },
+        { name: "🥇 VMZ", icon: <FaSpotify color="#1ED860" />, url: "" },
+        { name: "🥈 Juice WRLD", icon: <FaSpotify color="#1ED860" />, url: "" },
+        { name: "🥈 XXXTentacion", icon: <FaSpotify color="#1ED860" />, url: "" },
     ];
     const programming = [
         { name: "AWS", icon: <FaAws color="#FF9C08" />, url: "#" },
@@ -83,7 +85,7 @@ export default function Home() {
                         <GiAfrica /> {me.country}{" "}
                     </span>
                     <span className={styles.infoLanguages}>
-                        <FaLanguage /> {me.languages.join(", ")}{" "}
+                        <FaLanguage /> <div className={styles.infoLanguage}>{me.languages.join(", ")} </div>
                     </span>
                 </div>
                 <div className={styles.linkContainer}>

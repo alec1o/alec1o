@@ -7,8 +7,8 @@
   justify-content: flex-start;
   width: 100%;
   height: auto;
-  min-height: 100vh;
   padding: 0px;
+  margin-bottom: 100px;
 }
 
 .pictureContainer {
@@ -62,24 +62,29 @@
   padding-left: 20px;
   text-transform: none;
   text-decoration: none;
-  font-weight: bold;
-  letter-spacing: 1px;
-  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  font-size: 14px;
   transition: all 0.3s ease-in;
+  /*
+  font-family: var(--font-family-secondary);
+  */
 }
 
 .linkContainerReverse .link {
   flex-direction: row-reverse;
 }
 
+/*
 .link:hover {
   background-color: var(--color-secondary);
   color: var(--color-header);
 }
+*/
 
 .link>svg {
   font-size: 20px !important;
-  margin: 0 5px;
+  margin: 0 7.5px;
 }
 
 .linkTitle {

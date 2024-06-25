@@ -1,0 +1,30 @@
+.container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-start;
+    background-color: var(--color-footer);
+    padding: 20px 10px;
+}
+
+.message {
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--color-secondary);
+    letter-spacing: 1px;
+}
+
+.copyright {
+    letter-spacing: 1px;
+    margin-top: 5px;
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+    font-size: 14px;
+    font-weight: 500;
+}
