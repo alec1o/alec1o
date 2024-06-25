@@ -35,5 +35,5 @@
 }
 
 .selected {
-    color: #2050ce;
+    color: var(--color-secondary);
 }

@@ -3,10 +3,13 @@
 :root {
   --color-header: #ffffffff;
   --color-footer: #ffffff00;
-  --color-background2: #dee3eeff;
+  --color-background2: #dee3ee;
   --color-background: #03020c;
+  --color-background: #000000;
   --font-family: Inter, Roboto, Arial;
   --color-primary: #110f2b;
+  --color-base: #ffffff;
+  --color-secondary: #2050ce;
 }
 
 * {
@@ -36,5 +39,10 @@ body {
   justify-content: flex-start;
   top: 60px;
   padding: 20px;
+  width: 100%;
+}
 
+#init {
+  width: 100%;
+  height: auto;
 }

@@ -1,0 +1,129 @@
+.meContainer {
+  padding-top: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  padding: 0px;
+}
+
+.pictureContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture {
+  max-width: 180px !important;
+  max-height: 180px !important;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 35%;
+  box-shadow: 0 0 20px 2px var(--color-header);
+  border: 2px solid var(--color-header);
+  transition: all 0.3s ease-in;
+}
+
+.picture:hover {
+  box-shadow: 0 0 30px 2px var(--color-secondary);
+  border: 2px solid var(--color-secondary);
+}
+
+.linkContainerReverse,
+.linkContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.linkContainerReverse {
+  align-items: flex-end;
+}
+
+
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: transparent;
+  padding: 7.4px 5px;
+  border-radius: 0;
+  color: var(--color-base);
+  margin: 5px;
+  padding-left: 20px;
+  text-transform: none;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 18px;
+  transition: all 0.3s ease-in;
+}
+
+.linkContainerReverse .link {
+  flex-direction: row-reverse;
+}
+
+.link:hover {
+  background-color: var(--color-secondary);
+  color: var(--color-header);
+}
+
+.link>svg {
+  font-size: 20px !important;
+  margin: 0 5px;
+}
+
+.linkTitle {
+  display: block;
+  font-size: 12px;
+  color: var(--color-header);
+  font-weight: bold;
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin: 5px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--color-base);
+  margin: 20px 0;
+  margin-bottom: 50px;
+}
+
+.infoName,
+.infoCountry,
+.infoLanguages {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 24px;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 2px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.infoCountry,
+.infoLanguages {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.info svg {
+  font-size: 24px;
+  margin-right: 10px;
+}
