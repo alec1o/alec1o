@@ -43,27 +43,27 @@ export default function Home() {
         { name: "LinkedIn", icon: <FaLinkedin color="#FFFFFF" />, url: "https://www.linkedin.com/in/alec1o" },
     ];
     const artist = [
-        { name: "🥇 VMZ", icon: <FaSpotify color="#1ED860" />, url: "" },
-        { name: "🥈 Juice WRLD", icon: <FaSpotify color="#1ED860" />, url: "" },
-        { name: "🥈 XXXTentacion", icon: <FaSpotify color="#1ED860" />, url: "" },
+        { name: "🥇 VMZ", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg" },
+        { name: "🥈 Juice WRLD", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" },
+        { name: "🥈 XXXTentacion", icon: <FaSpotify color="#1ED860" />, url: "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4" },
     ];
     const programming = [
-        { name: "AWS", icon: <FaAws color="#FF9C08" />, url: "#" },
-        { name: "Linux", icon: <FcLinux />, url: "#" },
-        { name: "Unity", icon: <FaUnity />, url: "#" },
-        { name: "Docker", icon: <FaDocker color="#0895E7" />, url: "#" },
-        { name: "Mongo DB", icon: <DiMongodb color="#189555" />, url: "#" },
-        { name: "RabbitMQ", icon: <SiRabbitmq color="#F26C29" />, url: "#" },
-        { name: "Redis", icon: <SiRedis color="#DD3528" />, url: "#" },
-        { name: "Blender", icon: <SiBlender color="#EB7A08" />, url: "#" },
-        { name: ".NET", icon: <SiDotnet color="#5632D5" />, url: "#" },
-        { name: "React.js", icon: <FaReact color="#61DBFB" />, url: "#" },
-        { name: "Next.js", icon: <SiNextdotjs color="#FFFFFF" />, url: "#" },
-        { name: "C#", icon: <SiCsharp color="#3F0893" />, url: "#" },
-        { name: "TypeScript", icon: <SiTypescript color="#2D79C7" />, url: "#" },
-        { name: "JavaScript", icon: <SiJavascript color="#F7E025" />, url: "#" },
-        { name: "Python", icon: <FaPython color="#3C77A8" />, url: "#" },
-        { name: "...More", icon: <></>, url: "#" },
+        { name: "AWS", icon: <FaAws color="#FF9C08" /> },
+        { name: "Linux", icon: <FcLinux /> },
+        { name: "Unity", icon: <FaUnity /> },
+        { name: "Docker", icon: <FaDocker color="#0895E7" /> },
+        { name: "Mongo DB", icon: <DiMongodb color="#189555" /> },
+        { name: "RabbitMQ", icon: <SiRabbitmq color="#F26C29" /> },
+        { name: "Redis", icon: <SiRedis color="#DD3528" /> },
+        { name: "Blender", icon: <SiBlender color="#EB7A08" /> },
+        { name: ".NET", icon: <SiDotnet color="#5632D5" /> },
+        { name: "React.js", icon: <FaReact color="#61DBFB" /> },
+        { name: "Next.js", icon: <SiNextdotjs color="#FFFFFF" /> },
+        { name: "C#", icon: <SiCsharp color="#3F0893" /> },
+        { name: "TypeScript", icon: <SiTypescript color="#2D79C7" /> },
+        { name: "JavaScript", icon: <SiJavascript color="#F7E025" /> },
+        { name: "Python", icon: <FaPython color="#3C77A8" /> },
+        { name: "...More", icon: <></> },
     ];
 
     return (
@@ -91,7 +91,7 @@ export default function Home() {
                 <div className={styles.linkContainer}>
                     <h2 className={styles.linkTitle}>Sharing platform</h2>
                     {social.map((x) => (
-                        <Link key={x.name} href={x.url} className={styles.link}>
+                        <Link key={x.name} target="_blank" href={x.url} className={styles.link}>
                             {x.icon} {x.name}{" "}
                         </Link>
                     ))}
@@ -99,7 +99,7 @@ export default function Home() {
                 <div className={styles.linkContainerReverse}>
                     <h2 className={styles.linkTitle}>Musical artist</h2>
                     {artist.map((x) => (
-                        <Link key={x.name} href={x.url} className={styles.link}>
+                        <Link key={x.name} target="_blank" href={x.url} className={styles.link}>
                             {x.icon} {x.name}{" "}
                         </Link>
                     ))}
@@ -107,9 +107,9 @@ export default function Home() {
                 <div className={styles.linkContainer}>
                     <h2 className={styles.linkTitle}>Programming</h2>
                     {programming.map((x) => (
-                        <Link key={x.name} href={x.url} className={styles.link}>
+                        <div key={x.name} className={styles.link}>
                             {x.icon} {x.name}{" "}
-                        </Link>
+                        </div>
                     ))}
                 </div>
             </div>
