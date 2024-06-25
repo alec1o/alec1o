@@ -141,12 +141,12 @@
 
 @keyframes color {
   0% {
-    box-shadow: 0 0 20px 2px var(--color-header);
-    border: 2px solid var(--color-header);
+    box-shadow: 0 0 30px 2px var(--color-secondary);
+    border: 2px solid var(--color-secondary);
   }
 
   100% {
-    box-shadow: 0 0 30px 2px var(--color-secondary);
-    border: 2px solid var(--color-secondary);
+    box-shadow: 0 0 20px 2px var(--color-header);
+    border: 2px solid var(--color-header);
   }
 }
