@@ -2,23 +2,28 @@
 <h3 align="center"><i>Alecio Furanze</i></h3>
 </br>
 <div align="center">
-    <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="icons/instagram.png" alt="instagram" /></a>&nbsp;
-    <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="icons/youtube.png" alt="youtube"     /></a>&nbsp;
-    <a target="_blank" href="https://linkedin.com/in/alec1o/" ><img width="24px" src="icons/linkedin.png" alt="linkedin"   /></a>&nbsp;
-    <a target="_blank" href="mailto://i@alecio.me"            ><img width="24px" src="icons/email.png" alt="email"         /></a>&nbsp;
-    <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="icons/website.png" alt="website"     /></a>&nbsp;
-</div>
+    <div align="center">
+        <a target="_blank" href="https://instagram.com/alec1o"    ><img width="24px" src="icons/instagram.png" alt="instagram" /></a>&nbsp;
+        <a target="_blank" href="https://youtube.com/@alec1o"     ><img width="24px" src="icons/youtube.png" alt="youtube"     /></a>&nbsp;
+        <a target="_blank" href="https://linkedin.com/in/alec1o/" ><img width="24px" src="icons/linkedin.png" alt="linkedin"   /></a>&nbsp;
+        <a target="_blank" href="mailto://i@alecio.me"            ><img width="24px" src="icons/email.png" alt="email"         /></a>&nbsp;
+        <a target="_blank" href="http://www.alecio.me/"           ><img width="24px" src="icons/website.png" alt="website"     /></a>&nbsp;
+    </div>
+    </br>
+    <div align="center">    
+        <div>
+            <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
+            &nbsp;
+            <a href="https://www.youtube.com/@alec1o"><img src="https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow" alt="Alecio's YouTube"></a>
+        </div>    
+    </div>
 </br>
-<div align="center">    
-    <div>
-        <a href="https://github.com/alec1o"><img src="https://img.shields.io/github/stars/alec1o" alt="Alecio's GitHub"></a>
-        &nbsp;
-        <a href="https://www.youtube.com/@alec1o"><img src="https://img.shields.io/youtube/channel/views/UC2aSCT_J52rxBnj_o3HYxow" alt="Alecio's YouTube"></a>
-    </div>    
+<!--
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=alec1o&theme=transparent&text_color=20cc98&border_width=0&title_color=d32399&hide=forks,prs,prs_merged,issues,contributed)
+-->
 </div>
-</br>
 
-[![committers.top badge](https://user-badge.committers.top/mozambique/alec1o.svg)](https://user-badge.committers.top/mozambique/alec1o)
+[![committers.top badge](https://user-badge.committers.top/mozambique/alec1o.svg)](https://user-badge.committers.top/mozambique/alec1o&hide_border=true)
 
 <details>
 <summary><i><strong>See my skills... 💙</strong></i></summary>
