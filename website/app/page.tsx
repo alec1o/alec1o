@@ -57,6 +57,12 @@ export default function Home() {
             url: "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
         },
         {
+            name: "Royal & the Serpent",
+            position: <PiFireFill size={14} color="#ff7b00" clip="27AE60" />,
+            icon: <FaSpotify color="#1ED860" />,
+            url: "https://open.spotify.com/artist/64EHXDoln95lnccszdPum",
+        },
+        {
             name: "XXXTentacion",
             position: <PiFireFill size={14} color="#FFA500" clip="27AE60" />,
             icon: <FaSpotify color="#1ED860" />,
